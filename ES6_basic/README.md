@@ -1,1 +1,1 @@
-This is the README file for ES^ basic projects
+This is the README file for ES6 basics
